@@ -15,3 +15,5 @@
 - [Node.js는 싱글스레드 인가요? Node.js 런타임이 동작하는 방식을 설명해주세요.](https://velog.io/@solimlee/%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%A0%9C-%EB%A9%B4%EC%A0%91Node.js%EB%8A%94-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%9D%B8%EA%B0%80%EC%9A%94-Node.js-%EB%9F%B0%ED%83%80%EC%9E%84%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 
 - [Node.js에서 비동기의 개념은 어떻게 되나요?](https://velog.io/@solimlee/%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%A0%9C-%EB%A9%B4%EC%A0%91Node.js%EC%97%90%EC%84%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98-%EA%B0%9C%EB%85%90%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94)
+
+- [Node.js와 웹 브라우저의 차이점에 대해서 설명해주세요.](https://velog.io/@solimlee/%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%A0%9C-%EB%A9%B4%EC%A0%91Node.js%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
