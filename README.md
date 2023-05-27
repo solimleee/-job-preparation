@@ -29,3 +29,5 @@
 - [React 라이브러리에서 제공하는 기본 내장 API 함수에 대해서 설명해주세요. (ex. useEffect, useCallback)](https://velog.io/@solimlee/%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%A0%9C-%EB%A9%B4%EC%A0%91React-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%97%90%EC%84%9C-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B8%B0%EB%B3%B8-%EB%82%B4%EC%9E%A5-API-%ED%95%A8%EC%88%98%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.-ex.-useEffect-useCallback)
 
 - [MVC패턴에 대해서 설명해주세요.](https://velog.io/@solimlee/%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%A0%9C-%EB%A9%B4%EC%A0%91MVC-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
+
+- [SCSS란?] ()
