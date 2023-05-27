@@ -30,4 +30,4 @@
 
 - [MVC패턴에 대해서 설명해주세요.](https://velog.io/@solimlee/%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%A0%9C-%EB%A9%B4%EC%A0%91MVC-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 
-- [SCSS란?] ()
+- [SCSS란?] (https://velog.io/@solimlee/SCSSSass%EB%9E%80)
